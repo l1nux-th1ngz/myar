@@ -1,4 +1,4 @@
-check for errors #!/bin/bash
+#!/bin/bash
 
 # Remove carriage return characters
 tr -d '\r' <<EOF
