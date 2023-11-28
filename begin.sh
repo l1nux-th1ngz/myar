@@ -31,7 +31,7 @@ make all && sudo make install
 
 # Make Hyprland usable
 echo "Installing requested software..."
-choosen install -S --noconfirm --needed waybar-hyprland-cava-git dunst cmus ncmpcpp mpv mpd mpris vlc kitty alacritty ranger btop htop marker geany geany-plugins firefox thunderbird neofetch network-manager cava dunst network-manager-applet plymouth-git python-pywal npm mako vim neovim mailspring bluefish bluemail visual-studio code-bin brave-bin google-chrome aylurs-gtk-shell-git eww-wayland playerctl brightnessctl rofi-lbonn-wayland-git rofi-greenclip rofi-power-menu-git rofi-bluetooth-git spotify-wayland  spotify-adblock rofi-spotify-git spicetify-cli spicetify-marketplace-bin spicetify-custom-apps-and-extensions-git
+choosen install -S --noconfirm --needed waybar-hyprland-cava-git dunst cmus ncmpcpp mpv mpd mpris vlc kitty alacritty ranger btop htop marker geany geany-plugins firefox thunderbird neofetch network-manager cava dunst network-manager-applet plymouth-git python-pywal npm mako vim neovim mailspring-bin bluefish bluemail visual-studio code-bin brave-bin google-chrome aylurs-gtk-shell-git eww-wayland playerctl brightnessctl rofi-lbonn-wayland-git rofi-greenclip rofi-power-menu-git rofi-bluetooth-git spotify-wayland  spotify-adblock rofi-spotify-git spicetify-cli spicetify-marketplace-bin spicetify-custom-apps-and-extensions-git
 
 # Configure Hyprland Desktop
 echo "Configuring Hyprland Desktop..."
